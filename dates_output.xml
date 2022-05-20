@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><QUOTE_REQUEST>
+  <REQUEST>
+    <AC>
+      <AGC>XXX</AGC>
+      <AG>YYY</AG>
+    </AC>
+    <RQ>
+      <TY>Q</TY>
+      <LAN>EN</LAN>
+    </RQ>
+    <TP>
+      <DEPART>20221010</DEPART>
+      <RETURN>20221111</RETURN>
+      <ORG>CA</ORG>
+      <DES>TEST</DES>
+      <V1>302.30</V1>
+    </TP>
+  </REQUEST>
+</QUOTE_REQUEST>
